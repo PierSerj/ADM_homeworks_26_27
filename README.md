@@ -3,5 +3,5 @@ Homeworks of Algorithmic methods of data mining by Piercarlo Risi, 1914164.
 
 This is the first homework, which contains:
 
-* The PDF of the submission page
-* A Jupyter notebook with the solutions to the exercises
+* The PDF of the submission page.
+* A Jupyter notebook with the solutions to the exercises. The notebook is organized into sections, each consisting of the exercise name in Markdown, followed by the solution code.
